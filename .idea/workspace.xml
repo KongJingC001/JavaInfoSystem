@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723c5e4c-accd-49cb-a4ef-71e1e88bee96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/model/TableData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/run/InternetRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/run/SystemV3Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/manageBackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/style/LayoutBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/style/StyleBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/util/IOUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/util/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/AddDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/ChangeDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/DateChooser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/DeleteDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/FindDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/INFODialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/MainInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/ManageInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/MenuInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/StudentTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/manageBackground.png" afterDir="false" />
-    </list>
+    <list default="true" id="723c5e4c-accd-49cb-a4ef-71e1e88bee96" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,11 +81,38 @@
       <option name="presentableId" value="Default" />
       <updated>1661343202411</updated>
       <workItem from="1661343209530" duration="191000" />
-      <workItem from="1661510227276" duration="1950000" />
+      <workItem from="1661510227276" duration="2263000" />
     </task>
+    <task id="LOCAL-00001" summary="create">
+      <created>1661512396594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661512396594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create">
+      <created>1661512402891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661512402891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Replace tab with space">
+      <created>1661512522765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661512522765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create" />
+    <MESSAGE value="Replace tab with space" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace tab with space" />
   </component>
 </project>
