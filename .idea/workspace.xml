@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="723c5e4c-accd-49cb-a4ef-71e1e88bee96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/model/TableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/run/InternetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/run/SystemV3Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/administrator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/source/image/manageBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/style/LayoutBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/style/StyleBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/util/IOUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/util/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/AddDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/ChangeDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/DateChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/DeleteDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/FindDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/INFODialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/MainInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/ManageInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/MenuInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kj/view/StudentTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/administrator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/manageBackground.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DnmO513ypON5qIF2bIgeGwNWlV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Repository/JavaInfoSystem/src/main/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Repository\JavaInfoSystem\src\main\resources" />
+      <recent name="E:\Repository\JavaInfoSystem\src\main\java\kj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SystemV3Runner">
+    <configuration name="InternetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kj.run.InternetRunner" />
+      <module name="JavaInfoSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kj.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemV3Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kj.run.SystemV3Runner" />
+      <module name="JavaInfoSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kj.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InternetRunner" />
+        <item itemvalue="Application.SystemV3Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723c5e4c-accd-49cb-a4ef-71e1e88bee96" name="Changes" comment="" />
+      <created>1661343202411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661343202411</updated>
+      <workItem from="1661343209530" duration="191000" />
+      <workItem from="1661510227276" duration="1950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
